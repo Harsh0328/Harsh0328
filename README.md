@@ -29,6 +29,7 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 * Open Source
 * DevOps
 * Infrastructure as a Code (IaaC)
+* Helm
 
 
 ### 🔗 Connect with me:

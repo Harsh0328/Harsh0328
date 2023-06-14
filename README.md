@@ -4,7 +4,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-sharma-519aa3269/)
 ![](https://komarev.com/ghpvc/?username=Harsh0328&color=green&style=for-the-badge)
 
-### Hi there, <src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ### I'm Harsh Vardhan Sharma
 
 
@@ -35,7 +35,7 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 
 
 ### Version Control System :
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ac28190b3bdb446d46b2760854ecec42927bd2ae802d0729c6b0e72449b56082/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4769744875622d4d61726b2e706e67" alt="git" width="40" height="40"/> </a>
 
 
@@ -44,7 +44,7 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="sass" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="sass" width="60" height="40"/> </a>
 
 
 

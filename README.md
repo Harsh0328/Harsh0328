@@ -4,7 +4,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-sharma-519aa3269/)
 ![](https://komarev.com/ghpvc/?username=Harsh0328&color=green&style=for-the-badge)
 
-### Hi there, 😃 <a href="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" alt="Harsh0328" height="35" width="35" /></a>
+### Hi there, 😃 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ### I'm Harsh Vardhan Sharma
 
 

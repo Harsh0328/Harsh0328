@@ -17,7 +17,7 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 - 💬 Ask me about Linux
 - 📫 How to reach me: harsh.cte@gmail.com
 - ⚡ Fun fact: You won't notice me when I'm around, coz I'm stealthy like a 🥷🏻 
-- 📷 Photographer by hobby👉 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the__fotofactory)
+- 📷 Photographer by hobby👉 <a href="https://www.instagram.com/the__fotofactory/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harsh0328" height="30" width="40" /></a>
 
 
 ### 🔍 Interests
@@ -52,11 +52,9 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<h3 align="left">Containerisation tools</h3>
+<h3 align="left">Infrastructure management tools</h3>
 
-## Containerisation tools
-## Infrastructure management tools
-
-## Programming Language
 
 <!-- ### Blog links
 <!-- <!-- BLOGPOSTS:START -->

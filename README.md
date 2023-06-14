@@ -44,7 +44,7 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="sass" width="60" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" alt="sass" width="60" height="40"/> </a>
 
 
 

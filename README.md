@@ -24,6 +24,8 @@ Proven experience in implementing and maintaining robust CI/CD pipelines, automa
 * Python / Shell Scripting
 * Container & Kubernetes Administration + Security
 * Cloud Native
+* Terraform
+* CI/CD
 * Open Source
 * DevOps
 * Infrastructure as a Code (IaaC)
